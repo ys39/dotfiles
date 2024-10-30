@@ -1,3 +1,6 @@
+### 注意
+* こちらのリポジトリはもう更新されていません。新しいリポジトリは[こちら](https://github.com/ys39/dotfiles_taskver)です。
+
 ### dotfiles
 
 -   自身が利用する dotfiles を整理するための repository
